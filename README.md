@@ -1,7 +1,7 @@
 # ComputerGeneratedText
 
 # Discription
-Import 
+Create a computer generated version of your text.
 
 # Running Code
 1. Feed text into createDictionary.
